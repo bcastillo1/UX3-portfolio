@@ -16,18 +16,18 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AvenirNext-DemiBold",
-              "size": 14
+              "name": "AvenirNext-HeavyItalic",
+              "size": 24
             }
           },
           "kerning": 0.800000011920929,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 1
+            "alignment": 2
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 43,
+        "length": 42,
         "location": 0
       },
       {
@@ -43,22 +43,22 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "AvenirNext-DemiBold",
-              "size": 14
+              "name": "AvenirNext-HeavyItalic",
+              "size": 24
             }
           },
           "kerning": -0.8999999761581421,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 1
+            "alignment": 2
           },
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 1,
-        "location": 43
+        "location": 42
       }
     ],
-    "string": "You’re my home and\n my adventure all at once"
+    "string": "You’re my home and my adventure all at once"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "B8F1F6DB-5BE4-4A0A-B2E0-0D8C62C32D28",
@@ -77,16 +77,16 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B266C8E1-7F76-45C8-BB93-292A2466302F",
-    "height": 52,
-    "width": 201,
-    "x": 241,
-    "y": 750
+    "height": 173,
+    "width": 151,
+    "x": 457,
+    "y": 611
   },
-  "glyphBounds": "{{26, 3}, {176, 34}}",
+  "glyphBounds": "{{8, 7}, {134, 150}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": false,
+  "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "name": "You’re my home and m",
@@ -97,6 +97,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.5945542279411765
+    },
     "do_objectID": "03EBA381-6EBC-4E00-AD3C-E52D321AAB73",
     "endDecorationType": 0,
     "miterLimit": 10,
@@ -115,14 +120,14 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "AvenirNext-DemiBold",
-            "size": 14
+            "name": "AvenirNext-HeavyItalic",
+            "size": 24
           }
         },
         "kerning": 0.800000011920929,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 1
+          "alignment": 2
         },
         "textStyleVerticalAlignmentKey": 0
       },

@@ -60,7 +60,7 @@
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": false,
+  "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
   "name": "Family first. Live g",
@@ -74,7 +74,7 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "opacity": 0.6364315257352942
+      "opacity": 0.4427849264705883
     },
     "endDecorationType": 0,
     "miterLimit": 10,

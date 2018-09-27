@@ -40,23 +40,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
       "id": "357C0A04-9C36-49E5-A96C-68778A5615BF"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "141FE57C-D6FB-4957-BA74-F4184A40C33D"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "5A314042-EFCB-403F-B001-63CCFB8D33FF"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "41378688-7043-4990-9824-83286EAD8851"
     }
   ],
   "name": "Moodboard/Collage",

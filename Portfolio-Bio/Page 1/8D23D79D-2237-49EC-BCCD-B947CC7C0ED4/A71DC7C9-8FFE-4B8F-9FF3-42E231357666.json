@@ -130,6 +130,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.59
+    },
     "do_objectID": "78C34BD6-3EF6-4B33-8361-F6540C5499E7",
     "endDecorationType": 0,
     "miterLimit": 10,

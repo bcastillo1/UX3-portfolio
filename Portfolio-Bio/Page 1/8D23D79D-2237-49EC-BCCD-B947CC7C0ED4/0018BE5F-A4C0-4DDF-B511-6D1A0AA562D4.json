@@ -1,0 +1,49 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "0018BE5F-A4C0-4DDF-B511-6D1A0AA562D4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9FE36D72-2964-4BCA-A715-2DB1EE74FED8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "95D90C78-4CE3-4736-B1D8-D979B9E4FFF2",
+    "height": 137,
+    "width": 171,
+    "x": 442,
+    "y": 45
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/5be7ae79d5c9cdc4c0972fe392a94880c36df6c3.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 144,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Hills_Clouds",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8F4B1CB9-E593-4340-A883-997ACFEEA787",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

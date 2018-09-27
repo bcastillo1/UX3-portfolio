@@ -30,11 +30,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 1337,
+        "length": 1134,
         "location": 0
       }
     ],
-    "string": "Family first. Live green. Recycle. Rings. Time. Management.  Tea. Sweaters. Photos. Camera. Light. Shaddows. Sunsets. Dog. Cuddles. Plans. Colors. Eyes. Lights. Art. Sunrise. Quiet mornings. Family first. Live green. Recycle. Rings. Time. Management.  Tea. Sweaters. Photos. Camera. Light. Shaddows. Sunsets. Dog. Cuddles. Plans. Colors. Eyes. Lights. Art. Sunrise. Quiet mornings. Family first. Live green. Recycle. Rings. Time. Management.  Tea. Sweaters. Photos. Camera. Light. Shaddows. Sunsets. Dog. Cuddles. Plans. Colors. Eyes. Lights. Art. Sunrise. Quiet mornings. Family first. Live green. Recycle. Rings. Time. Management.  Tea. Sweaters. Photos. Camera. Light. Shaddows. Sunsets. Dog. Cuddles. Plans. Colors. Eyes. Lights. Art. Sunrise. Quiet mornings. Family first. Live green. Recycle. Rings. Time. Management.  Tea. Sweaters. Photos. Camera. Light. Shaddows. Sunsets. Dog. Cuddles. Plans. Colors. Eyes. Lights. Art. Sunrise. Quiet mornings. Family first. Live green. Recycle. Rings. Time. Management.  Tea. Sweaters. Photos. Camera. Light. Shaddows. Sunsets. Dog. Cuddles. Plans. Colors. Eyes. Lights. Art. Sunrise. Quiet mornings. Family first. Live green. Recycle. Rings. Time. Management.  Tea. Sweaters. Photos. Camera. Light. Shaddows. Sunsets. Dog. Cuddles. Plans. Colors. Eyes. Lights. Art. Sunrise. Quiet mornings. "
+    "string": "Family first. Live green. Recycle. Rings. Time. Management.  Tea. Sweaters. Photos. Camera. Light. Shadows. Sunsets. Dog. Cuddles. Plans. Colors. Eyes. Lights. Art. Sunrise. Quiet mornings.Family first. Live green. Recycle. Rings. Time. Management.  Tea. Sweaters. Photos. Camera. Light. Shadows. Sunsets. Dog. Cuddles. Plans. Colors. Eyes. Lights. Art. Sunrise. Quiet mornings.Family first. Live green. Recycle. Rings. Time. Management.  Tea. Sweaters. Photos. Camera. Light. Shadows. Sunsets. Dog. Cuddles. Plans. Colors. Eyes. Lights. Art. Sunrise. Quiet mornings.Family first. Live green. Recycle. Rings. Time. Management.  Tea. Sweaters. Photos. Camera. Light. Shadows. Sunsets. Dog. Cuddles. Plans. Colors. Eyes. Lights. Art. Sunrise. Quiet mornings.Family first. Live green. Recycle. Rings. Time. Management.  Tea. Sweaters. Photos. Camera. Light. Shadows. Sunsets. Dog. Cuddles. Plans. Colors. Eyes. Lights. Art. Sunrise. Quiet mornings.Family first. Live green. Recycle. Rings. Time. Management.  Tea. Sweaters. Photos. Camera. Light. Shadows. Sunsets. Dog. Cuddles. Plans. Colors. Eyes. Lights. Art. Sunrise. Quiet mornings."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "BD466B19-0E52-4843-8567-74221FDB1FD4",
@@ -56,7 +56,7 @@
     "x": -12,
     "y": -6
   },
-  "glyphBounds": "{{0, 2}, {627, 397}}",
+  "glyphBounds": "{{0, 2}, {627, 337}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -71,6 +71,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.6364315257352942
+    },
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0,

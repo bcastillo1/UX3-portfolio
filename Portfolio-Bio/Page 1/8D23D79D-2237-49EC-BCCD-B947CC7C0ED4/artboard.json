@@ -44,6 +44,26 @@
   "layers": [
     {
       "class": "bitmap",
+      "id": "75E134FD-283D-47A8-B2C9-3BD9790FF643"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7766A3DF-4A0E-4580-9A11-A37DA7FD521A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C6FE2093-4721-489F-874D-AEA1AEF10765"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "132BCBBA-E5DE-4D0E-B68B-86D158101C68"
+    },
+    {
+      "class": "bitmap",
+      "id": "B72EDF96-A88A-40DB-A0A7-186231D7EC6A"
+    },
+    {
+      "class": "bitmap",
       "id": "38213083-A66D-4D2D-B9C5-1CD56C5BE268"
     },
     {
@@ -60,15 +80,7 @@
     },
     {
       "class": "bitmap",
-      "id": "B72EDF96-A88A-40DB-A0A7-186231D7EC6A"
-    },
-    {
-      "class": "bitmap",
       "id": "41378ABD-ED5E-4AA6-8A07-66C14F91C3A8"
-    },
-    {
-      "class": "bitmap",
-      "id": "75E134FD-283D-47A8-B2C9-3BD9790FF643"
     },
     {
       "class": "bitmap",

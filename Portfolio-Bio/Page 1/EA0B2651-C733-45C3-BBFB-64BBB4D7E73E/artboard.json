@@ -49,6 +49,10 @@
     {
       "class": "text",
       "id": "5F0F1C26-20DA-409B-956D-61FBC33B9BEB"
+    },
+    {
+      "class": "bitmap",
+      "id": "BB931947-C344-446B-B9A8-AAA2A479DAC9"
     }
   ],
   "name": "Bio",

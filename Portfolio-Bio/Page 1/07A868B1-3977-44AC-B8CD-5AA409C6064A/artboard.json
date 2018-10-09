@@ -70,6 +70,38 @@
     {
       "class": "symbolInstance",
       "id": "222A9F36-76FD-4A8F-8240-C194A67E455C"
+    },
+    {
+      "class": "text",
+      "id": "4A584EA9-0F63-403D-8EC9-4C4F48FCE490"
+    },
+    {
+      "class": "text",
+      "id": "9B879D52-61B2-4D21-95EA-F152AFE7A896"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C1FC835F-EA41-441A-8184-2FAEACC65B01"
+    },
+    {
+      "class": "text",
+      "id": "AD9F6D77-1823-4B34-A4B5-9A0A0FA7AF8A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4C0E8985-6E6B-4104-A03E-F391E904A9DA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5E5F8A4E-E451-4227-9A2F-D73BE4F5F24B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B6958CB4-B9AC-450A-B8C2-92199484A1A7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D4EC2AAA-5F5D-4F1F-ABF5-E4D64938E356"
     }
   ],
   "name": "Buttons/symbols",

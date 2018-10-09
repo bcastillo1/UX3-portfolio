@@ -1,6 +1,6 @@
 {
   "_class": "page",
-  "do_objectID": "7E79D380-4995-424B-91B1-BEF710211613",
+  "do_objectID": "B948316E-2DA7-40F0-92D2-FA5B7DB21B51",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -21,9 +21,8 @@
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -357,
     "guides": [
-      2650
     ]
   },
   "includeInCloudUpload": true,
@@ -34,27 +33,23 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "8D23D79D-2237-49EC-BCCD-B947CC7C0ED4"
+      "class": "symbolMaster",
+      "id": "18B9A853-6A76-4A29-935A-815034DB6F8F"
     },
     {
-      "class": "artboard",
-      "id": "EA0B2651-C733-45C3-BBFB-64BBB4D7E73E"
+      "class": "symbolMaster",
+      "id": "9862DA04-FAD5-42FD-8048-ECCC48E1D242"
     },
     {
-      "class": "artboard",
-      "id": "516BB731-DDF6-4922-9793-6C4BE7FDDE21"
+      "class": "symbolMaster",
+      "id": "30334455-5408-4ACF-A45E-B8595DD0E2CC"
     },
     {
-      "class": "artboard",
-      "id": "2E261F9E-347A-4A6D-99A0-19B14E5AD013"
-    },
-    {
-      "class": "artboard",
-      "id": "07A868B1-3977-44AC-B8CD-5AA409C6064A"
+      "class": "symbolMaster",
+      "id": "CD24EC2B-A6EF-470D-89C8-86F723DBC5E0"
     }
   ],
-  "name": "Page 1",
+  "name": "Symbols",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -68,10 +63,8 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -256,
     "guides": [
-      50,
-      151
     ]
   }
 }

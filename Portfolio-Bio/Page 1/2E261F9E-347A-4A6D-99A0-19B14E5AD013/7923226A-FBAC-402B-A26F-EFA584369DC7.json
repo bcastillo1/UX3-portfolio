@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "STLibian-SC-Regular",
+              "name": "Klee-Medium",
               "size": 12
             }
           },
@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 12,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "Body text - "
+    "string": "Body text - 12"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "7923226A-FBAC-402B-A26F-EFA584369DC7",
@@ -51,18 +51,18 @@
     "constrainProportions": false,
     "do_objectID": "0B44AF2D-F0F6-4F66-9F92-A3E218CC7650",
     "height": 24,
-    "width": 94,
-    "x": 429,
-    "y": 371
+    "width": 149,
+    "x": 374,
+    "y": 373
   },
-  "glyphBounds": "{{0, 5}, {72, 10}}",
+  "glyphBounds": "{{0, 2}, {97, 11}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Body text -",
+  "name": "Body text - 12",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -88,7 +88,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "STLibian-SC-Regular",
+            "name": "Klee-Medium",
             "size": 12
           }
         },

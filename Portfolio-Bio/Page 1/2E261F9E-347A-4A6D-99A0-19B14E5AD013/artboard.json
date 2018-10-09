@@ -34,11 +34,11 @@
     "do_objectID": "397CAFAA-114C-4EE0-9BA5-EAEF5D4E64C0",
     "height": 792,
     "width": 612,
-    "x": 2285,
-    "y": 33
+    "x": 2294,
+    "y": 15
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -98,6 +98,10 @@
     {
       "class": "text",
       "id": "9F92F965-182E-4576-9595-56008290A733"
+    },
+    {
+      "class": "text",
+      "id": "9E2F0DBC-90D7-4A50-A3C3-9E804639C409"
     },
     {
       "class": "text",

@@ -17,21 +17,21 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "STLibian-SC-Regular",
-              "size": 12
+              "size": 24
             }
           },
-          "kerning": 1.340000033378601,
+          "kerning": 2.68,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 9,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "Heading 2"
+    "string": "Heading 2- 24"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "E8E7980F-A0A9-4B93-BBFB-65CB6E537FD8",
@@ -50,19 +50,19 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "22660ABB-8272-4548-96F6-052C49C7732D",
-    "height": 24,
-    "width": 94,
-    "x": 429,
-    "y": 316
+    "height": 28,
+    "width": 232,
+    "x": 374,
+    "y": 304
   },
-  "glyphBounds": "{{0, 5}, {61, 10}}",
+  "glyphBounds": "{{1, 9}, {173, 20}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Heading 2",
+  "name": "Heading 2- 24",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -89,10 +89,10 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "STLibian-SC-Regular",
-            "size": 12
+            "size": 24
           }
         },
-        "kerning": 1.340000033378601,
+        "kerning": 2.68,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0

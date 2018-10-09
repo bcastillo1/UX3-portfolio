@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "STLibian-SC-Regular",
-              "size": 12
+              "size": 15
             }
           },
           "kerning": 1.340000033378601,
@@ -29,11 +29,11 @@
           "textStyleVerticalAlignmentKey": 0,
           "underlineStyle": 1
         },
-        "length": 5,
+        "length": 10,
         "location": 0
       }
     ],
-    "string": "Links"
+    "string": "Links - 15"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "2DE98C3F-8DDA-450C-99D3-F97F3643DDED",
@@ -53,18 +53,18 @@
     "constrainProportions": false,
     "do_objectID": "200F2D51-3C98-4FF8-B51C-8E2C79AB966F",
     "height": 24,
-    "width": 94,
-    "x": 429,
-    "y": 347
+    "width": 232,
+    "x": 374,
+    "y": 344
   },
-  "glyphBounds": "{{0, 5}, {32, 8}}",
+  "glyphBounds": "{{0, 6}, {74, 11}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Links",
+  "name": "Links - 15",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -91,7 +91,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "STLibian-SC-Regular",
-            "size": 12
+            "size": 15
           }
         },
         "kerning": 1.340000033378601,

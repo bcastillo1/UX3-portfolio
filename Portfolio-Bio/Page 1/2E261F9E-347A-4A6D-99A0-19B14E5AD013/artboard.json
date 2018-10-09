@@ -37,7 +37,7 @@
     "x": 2285,
     "y": 33
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -82,6 +82,54 @@
     {
       "class": "shapeGroup",
       "id": "A783CCE0-A1D5-4CE0-843C-68D15F53F4A7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4C1C7BB4-05BF-40D0-B57E-4490C1A8EC41"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6B391E6E-8B51-45E3-845F-E5D5A87AE0C7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BCF4031A-6957-4E53-9830-0C55FB75DFE5"
+    },
+    {
+      "class": "text",
+      "id": "94BE751E-F117-4CF9-B737-157EB3628AC9"
+    },
+    {
+      "class": "text",
+      "id": "9F92F965-182E-4576-9595-56008290A733"
+    },
+    {
+      "class": "text",
+      "id": "E72801DC-C5A8-40DE-930C-F76B06A3A338"
+    },
+    {
+      "class": "text",
+      "id": "BEC57196-7D48-4018-B4F6-3C4F3BAA1D61"
+    },
+    {
+      "class": "text",
+      "id": "19E48D18-EFDB-44F5-B6E8-BD65E304AF7A"
+    },
+    {
+      "class": "text",
+      "id": "5D4CEA1B-6111-49E5-AE93-FC19FD22C394"
+    },
+    {
+      "class": "text",
+      "id": "E8E7980F-A0A9-4B93-BBFB-65CB6E537FD8"
+    },
+    {
+      "class": "text",
+      "id": "2DE98C3F-8DDA-450C-99D3-F97F3643DDED"
+    },
+    {
+      "class": "text",
+      "id": "7923226A-FBAC-402B-A26F-EFA584369DC7"
     }
   ],
   "name": "Moodboard-portfolio Copy",

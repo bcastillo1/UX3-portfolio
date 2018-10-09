@@ -23,6 +23,7 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      2650
     ]
   },
   "includeInCloudUpload": true,
@@ -43,6 +44,10 @@
     {
       "class": "artboard",
       "id": "516BB731-DDF6-4922-9793-6C4BE7FDDE21"
+    },
+    {
+      "class": "artboard",
+      "id": "2E261F9E-347A-4A6D-99A0-19B14E5AD013"
     }
   ],
   "name": "Page 1",
@@ -61,6 +66,8 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      50,
+      151
     ]
   }
 }

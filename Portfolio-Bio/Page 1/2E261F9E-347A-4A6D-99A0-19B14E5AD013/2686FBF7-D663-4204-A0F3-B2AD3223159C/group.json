@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "2686FBF7-D663-4204-A0F3-B2AD3223159C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5CAB26FE-3199-45D8-A8F0-B5A89714BD47",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "450753DE-BA67-483D-8AF6-62D9F3CFD686",
+    "height": 301,
+    "width": 258,
+    "x": -5,
+    "y": 377
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "184E8CB1-13BD-4E96-BF65-930382B403C2"
+    },
+    {
+      "class": "bitmap",
+      "id": "58967A32-57AA-4FB0-AFBB-F921BEF8EFA2"
+    }
+  ],
+  "name": "brooke-lark-210776-unsplash",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5DC71EDF-BE02-4A72-A070-5DD973AF31C8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,9 +1,10 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "1B49ABFC-6746-4077-88BE-6F936FB45BE0",
+  "do_objectID": "82D34AF7-EF5E-429F-9F82-2F1F452BCD68",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "3299C96C-DEDC-4E5E-B32E-C2B565FBBF4F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,10 +15,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1,
-    "width": 20,
-    "x": 361,
-    "y": 35
+    "do_objectID": "3D7EA634-12B8-4EDD-83A8-B8B1CF3A9431",
+    "height": 3,
+    "width": 51,
+    "x": 3,
+    "y": 204
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,10 +31,10 @@
   "layers": [
     {
       "class": "shapePath",
-      "id": "92D30620-926A-4BCF-BCB8-BBAA30D11A2F"
+      "id": "A9A8ADF2-FBF5-443D-96F4-C29688D07EF7"
     }
   ],
-  "name": "Line",
+  "name": "Line Copy",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -44,6 +46,7 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
+      "do_objectID": "B0F75BC9-19F2-4A97-AFD8-66AD6CEEEE48",
       "isEnabled": false,
       "lineCapStyle": 2,
       "lineJoinStyle": 0
@@ -64,6 +67,7 @@
         "thickness": 4
       }
     ],
+    "do_objectID": "0DF70891-12E5-4441-A871-3D019EC2F704",
     "endDecorationType": 0,
     "fills": [
       {

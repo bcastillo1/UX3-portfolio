@@ -1,7 +1,6 @@
 {
-  "_class": "bitmap",
-  "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "24F20AB4-2F01-4562-A69F-A2B89A7D304F",
+  "_class": "page",
+  "do_objectID": "85A6F589-57E2-4006-BC83-35C710465A27",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -11,28 +10,31 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 523,
-    "width": 361,
-    "x": -6,
-    "y": -55
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
   },
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/9291dd455c1293bedab54aa2ae2457ebddab6850.png",
-    "_ref_class": "MSImageData"
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -348,
+    "guides": [
+    ]
   },
-  "intendedDPI": 72,
+  "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "aline-de-nadai-520660-unsplash",
-  "nameIsFixed": false,
+  "layers": [
+  ],
+  "name": "Portfolio",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -42,5 +44,11 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -262,
+    "guides": [
+    ]
   }
 }

@@ -1,0 +1,94 @@
+{
+  "_class": "group",
+  "do_objectID": "4B8AE7B0-DAF7-499A-A6A2-3EE4068E5639",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A2B19CAC-6055-4726-BD67-9953984BF21D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "243E744A-62F9-4DB4-9F61-A738F6CEDF0B",
+    "height": 238,
+    "width": 126,
+    "x": 1249,
+    "y": 344
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "46E1C281-7360-4C43-96F1-AFF3E6F3FD25"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "48C120B4-1D2F-42CC-90CC-15E226EAB265"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "889E838C-AB26-4B6C-A643-36F5E777325B"
+    }
+  ],
+  "name": "Group 4 Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "19983A83-D5AF-4A9F-8C54-2E246C0EE490",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 5,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}

@@ -15,10 +15,10 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "FA76D0C6-9C33-4C27-B7A9-71561A2BBCEF",
-    "height": 313,
-    "width": 60,
-    "x": 0,
-    "y": 0
+    "height": 309,
+    "width": 55,
+    "x": 4,
+    "y": 2
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,

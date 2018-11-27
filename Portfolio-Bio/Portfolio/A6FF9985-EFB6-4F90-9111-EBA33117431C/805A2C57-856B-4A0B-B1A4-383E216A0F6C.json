@@ -1,0 +1,49 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "805A2C57-856B-4A0B-B1A4-383E216A0F6C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "14BE2107-8824-42EC-A649-2D8D832F4203",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "0BC81D8F-4F13-437F-A55E-ABD3490FBCCD",
+    "height": 920,
+    "width": 613,
+    "x": 782,
+    "y": 53
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/c3e999b6b0c4e7b5a6f9387f061bc5302087af84.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 144,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "IMG_8741",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3337C8B9-DD1F-4D09-9AD8-364DE4193660",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

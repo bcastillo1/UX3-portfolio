@@ -1,0 +1,49 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "A603123C-D76E-48C4-A1C4-5CB4F878D644",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "47DE6FA7-3F01-4FD1-8707-981468AF964D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "91231D4C-CDCA-4630-AE2E-67C51E6A192F",
+    "height": 315.5000000000001,
+    "width": 465.5,
+    "x": 845,
+    "y": 235
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/5a4f8bce3a596bb8afe6a30a5d555ff413981bc8.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 144,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "allstate-logo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CDB87B43-B590-4E43-80F5-1D269ACF3DFA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

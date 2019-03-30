@@ -1,0 +1,130 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "199343A5-D193-456E-B973-7D88BDD72BEC",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "000725C2-BB79-41D0-B0C1-CCAEB313AF91",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AAEF658A-9CC2-45D0-813F-3E830576E21C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3A0F2092-8828-40AE-9C49-C567345F4079",
+    "height": 1024,
+    "width": 1440,
+    "x": 5201,
+    "y": -2032
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9E04F58A-9726-41C1-B31C-03B093789281",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "CE1C3BD4-D867-4D2E-828F-43A0B9D198DE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9282DB44-E144-4C5E-A0A4-2CB9DD9A1730"
+    },
+    {
+      "class": "bitmap",
+      "id": "A603123C-D76E-48C4-A1C4-5CB4F878D644"
+    },
+    {
+      "class": "text",
+      "id": "1BA2A74A-0A03-4978-B6C0-2E4C08B8DE12"
+    },
+    {
+      "class": "text",
+      "id": "32C372CD-CB0C-4E16-9537-45E798C95C84"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E9E39732-05D1-477C-A412-844AC919FCF2"
+    },
+    {
+      "class": "text",
+      "id": "14D95639-DA43-4B96-B2A4-71CF1B7C65C1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "149ACB80-870A-443D-9763-5DF89EC040FA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DD8FFFBE-4420-410B-A164-5E1BF1D23C01"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "do_objectID": "6A73492B-A062-4BB3-99C3-E08EA8E4ECA0",
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 15,
+    "gutterWidth": 60,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 1440
+  },
+  "name": "Church Website Intro/Teaser",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3A762AAD-0D10-4C0C-AD83-DA5449F8DF06",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "26ADA28A-42D1-4F65-851E-435EEB4A9656",
+    "guides": [
+    ]
+  }
+}
